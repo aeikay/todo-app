@@ -11,7 +11,7 @@ function App() {
       </div>
       <div className='subHeading'>
         <br />
-        <h2>Whoop, it's Wednesday 🌝 ☕ </h2>
+        <h2> Wednesday 🌝 ☕ </h2>
       </div>
       <div className='input'>
         <input
